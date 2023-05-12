@@ -10,5 +10,5 @@
 
 - 🔭 I am currently a chemistry professor who specializes in organic and biochemistry
 - 🌱 I am currently learning Python and R in preparation for courses in the OMSA Masters' degree at the Georgia Institute of Technology
-- 
+- I am also currently learning Git!!
 -->
